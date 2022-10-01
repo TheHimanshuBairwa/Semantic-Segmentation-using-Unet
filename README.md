@@ -4,7 +4,7 @@ Image segmentation is a computer vision task that segments an image into multipl
 
 # U-Net Architecture
 
-U-Net was introduced in the paper, U-Net: Convolutional Networks for Biomedical Image Segmentation. The model architecture is fairly simple: an encoder (for downsampling) and a decoder (for upsampling) with skip connections. As Figure 1 shows, it shapes like the letter U hence the name U-Net.
+U-Net was introduced in the paper, U-Net: Convolutional Networks for Biomedical Image Segmentation. The model architecture is fairly simple: an encoder (for downsampling) and a decoder (for upsampling) with skip connections. As Figure shows, it shapes like the letter U hence the name U-Net.
 ![1_unet_architecture_paper-1536x853](https://user-images.githubusercontent.com/88283732/193401321-a288d10d-f866-4230-92b9-a1c9073a6fc4.jpeg)
 
 
